@@ -1,0 +1,45 @@
+Title:
+[Flashy] Warner Home Video but it's a fax machine
+
+Description (angle brackets not allowed):
+Haters will say nobody uses fax machines anymore.
+
+The JBIG2 format is used for fax machines and bi-level images in PDFs. This demonstrates part of the encoding process: a color image is thresholded to remove a uniform background, then segmented into halftone image regions and symbol regions. Symbol regions are compressed by creating a dictionary of repeated symbols, usually letters. (More advanced encoders will use refinement to reduce substitution errors.) Learn more about JBIG2 on Wikipedia:
+
+https://en.wikipedia.org/wiki/JBIG2
+
+Example invocation of jbig2 command:
+
+jbig2 -O threshold.png -T 90 -S -j -b seg -s -a example.jpg | tee out.jb2
+
+Source video link:
+
+https://www.youtube.com/watch?v=81H4TwjdF5o
+
+Vimeo mirror:
+
+https://vimeo.com/1214044131
+
+Github repo:
+
+https:// github.com/ bariumbitmap/jbig2-logo-video
+
+See also:
+
+https://www.youtube.com/watch?v=MIegPi3e4-Q
+
+Logo video used for educational purposes. No ownership claim made to original or derivative works. Released under CC0 (public domain) in applicable jurisdictions.
+
+#logoediting, #logos, #editing, #effects, #ocr, #tesseract, #kyoonix, #kyoobur9000
+
+Tags:
+logoediting, logos, editing, effects, ocr, tesseract, kyoonix, kyoobur9000
+
+License:
+Creative Commons - Attribution
+
+Category:
+Film & Animation
+
+Link:
+https://www.youtube.com/watch?v=CVf3aEdnhQw
