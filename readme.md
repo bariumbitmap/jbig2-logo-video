@@ -7,6 +7,8 @@ See also:
 
 https://github.com/bariumbitmap/tesseract-ocr-logo-video
 
+https://github.com/agl/jbig2enc
+
 ## Links
 
 https://vimeo.com/1214044131
